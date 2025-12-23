@@ -1,2 +1,2 @@
-# CrateDigger-rWin
-CrateDigger Windows Releases
+# CrateDigger Windows Releases
+This repository is for Windows version releases for CrateDigger.
